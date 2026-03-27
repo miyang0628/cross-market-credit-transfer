@@ -14,7 +14,7 @@ This repository contains the full analysis code and publicly releasable data for
 
 > **Cross-Market Transferability of Alternative Credit Scoring Variables: A Statistical Similarity Framework with Evidence from Korea and Indonesia**
 >
-> *Status: Under Review*
+> *Status: Paper Submit*
 
 ### Key Contribution
 
