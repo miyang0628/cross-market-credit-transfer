@@ -225,10 +225,6 @@ If you use this code or framework, please cite:
 
 ## 📬 Contact
 
-- **Author**: [Name]
-- **Email**: [email@institution.ac.kr]
-- **Institution**: [Institution], Seoul, South Korea
-
 ---
 
 ## 📜 License
