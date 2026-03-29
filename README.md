@@ -1,4 +1,4 @@
-# Cross-Market Transferability of Alternative Credit Scoring Variables
+# Before the Data Arrive: A Pre-Entry Transferability Framework for Alternative Credit Scoring in Emerging Economies
 
 > **A Statistical Similarity Framework with Evidence from Korea and Indonesia**
 
