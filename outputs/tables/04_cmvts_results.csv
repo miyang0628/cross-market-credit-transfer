@@ -1,0 +1,5 @@
+﻿component,value,weight,weighted,note
+1-JSD_mean,0.955892515625,0.4,0.38235700625,Korea WoE dist vs ID uniform dist
+|Spearman_rho|,0.8896062271062269,0.3,0.2668818681318681,IV rank: Korea(AI Hub) vs ID(proxy)
+CosSim,0.9485153655333091,0.3,0.2845546096599927,Statista 34 percent indicators
+CMVTS,0.9337934840418608,1.0,0.9337934840418608,HIGH — Direct transfer recommended

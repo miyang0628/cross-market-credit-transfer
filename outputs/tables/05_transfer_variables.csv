@@ -1,0 +1,65 @@
+﻿variable,group,iv,transfer,description
+C1M2B4W03,Card,2.8615,HIGH,Credit card lump-sum usage 3M
+C1M2B5W03,Card,1.5554,HIGH,Credit card installment usage 3M
+AL012G019,Alternative,0.6492,HIGH,3yr mobile phone history count
+C1Z001373,Card,0.424,HIGH,Total card usage 3M
+AL012G005,Alternative,0.3605,HIGH,3yr address history count
+U81201010,Asset,0.2833,HIGH,Total asset value index
+U81202010,Asset,0.2627,HIGH,Net asset value index
+AS120G001,Alternative,0.1203,HIGH,Current residence size (binned)
+AL012G011,Alternative,0.0256,HIGH,3yr workplace history count
+L10216000,Loan,1.1014,LOW,Unsecured loan count
+L10220000,Loan,1.0545,LOW,Loan institution count
+L10210000,Loan,1.0517,LOW,Loan count (active)
+U81306010,Asset,0.2176,LOW,Residential lease (binned)
+L10231000,Loan,0.0823,LOW,Total committed loan amount
+U81305010,Asset,0.0687,LOW,Residential price (binned)
+C1L120170,Card,3.0791,MEDIUM,CA limit issuer count
+C1L120082,Card,3.0554,MEDIUM,Credit cards with valid CA limit
+C1L120032,Card,2.6036,MEDIUM,Credit cards with valid limit
+C1L120017,Card,2.475,MEDIUM,Issuer count with valid limit
+C1L120169,Card,2.3975,MEDIUM,Card issuer count
+C1L120084,Card,2.3773,MEDIUM,Cards with valid limit count
+C1L120251,Card,1.5449,MEDIUM,
+C1L120179,Card,1.5335,MEDIUM,
+C1L120242,Card,1.5132,MEDIUM,
+C1L120292,Card,1.5026,MEDIUM,
+C1L120237,Card,1.3855,MEDIUM,
+L102100CP,Loan,1.132,MEDIUM,
+L1021009P,Loan,1.1126,MEDIUM,
+L1021006P,Loan,1.0878,MEDIUM,
+L1021003P,Loan,1.0731,MEDIUM,
+L1021001P,Loan,1.0622,MEDIUM,
+L10173000,Loan,1.0185,MEDIUM,
+C1L120250,Card,0.8964,MEDIUM,
+C1L120003,Card,0.8826,MEDIUM,
+L10220800,Loan,0.6102,MEDIUM,
+L10210800,Loan,0.6066,MEDIUM,
+L90210300,Loan,0.4846,MEDIUM,
+C1L120163,Card,0.4561,MEDIUM,
+L90216300,Loan,0.4408,MEDIUM,
+C1L120004,Card,0.4173,MEDIUM,
+C1Z001386,Card,0.3915,MEDIUM,
+C1L120168,Card,0.3493,MEDIUM,
+C1L120161,Card,0.3113,MEDIUM,
+C18210000,Card,0.2963,MEDIUM,
+U81203010,Asset,0.2882,MEDIUM,Total asset value (binned)
+U81204010,Asset,0.2672,MEDIUM,Net asset value (binned)
+L90210200,Loan,0.2665,MEDIUM,
+L90216200,Loan,0.2656,MEDIUM,
+L10210006,Loan,0.2632,MEDIUM,
+L1021000C,Loan,0.2299,MEDIUM,
+U81302010,Asset,0.2138,MEDIUM,Residential lease price
+C1L120167,Card,0.1963,MEDIUM,
+L10217000,Loan,0.1073,MEDIUM,
+L1021000F,Loan,0.0749,MEDIUM,
+C1L120041,Card,0.06,MEDIUM,
+U81301010,Asset,0.06,MEDIUM,Residential property price
+C18233004,Card,0.0593,MEDIUM,
+C18233005,Card,0.059,MEDIUM,
+C1M210000,Card,0.0581,MEDIUM,Credit card count (active)
+C18233002,Card,0.0556,MEDIUM,
+C18233003,Card,0.0548,MEDIUM,
+L90216100,Loan,0.0357,MEDIUM,
+U81102010,Asset,0.0205,MEDIUM,
+L1Z001044,Loan,0.0104,MEDIUM,

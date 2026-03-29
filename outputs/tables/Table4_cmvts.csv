@@ -1,0 +1,5 @@
+﻿Component,Value,Weight,Weighted,Data source,Note
+C1: 1 − JSD_mean,0.9559,0.4,0.3824,AI Hub WoE bin distributions,Uniform proxy for Indonesia
+C2: |Spearman ρ|,0.8896,0.3,0.2669,IV rankings (Korea vs ID proxy),p < 0.001
+C3: CosSim,0.9485,0.3,0.2846,Statista 34 macro indicators,eCommerce-dominant (56%)
+CMVTS (total),0.9338,1.0,0.9338,—,HIGH — Direct transfer recommended

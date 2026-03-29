@@ -1,0 +1,5 @@
+﻿Variable (report),Column (AI Hub),Description,N,Mean,Std,Min,Median,Max,Missing%,ID proxy (%),Quarters
+comm_sns_22_1,R3M_ITRT_COMM_SNS,SNS community interest score (3M),"2,640,000",1.017,0.807,0,1.0,3,0.0,70.0,8
+shc_236_222Q,CD_USE_AMT,Card usage amount (e-Commerce proxy),"2,640,000",5475.123,6700.015,0,3555.0,105858,0.0,57.0,8
+shop_social_22_2,R3M_ITRT_SHOP_SOCIAL,Social commerce interest score (3M),"2,640,000",0.739,0.644,0,1.0,2,0.0,57.0,8
+shop_jikgu_22_2,R3M_ITRT_SHOP_JIKGU,Overseas direct purchase interest (3M),"2,640,000",0.355,0.479,0,0.0,1,0.0,19.0,8

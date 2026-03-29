@@ -1,0 +1,10 @@
+﻿,Variable,Group,IV,IV Weight (%),Description
+1,C1M2B4W03,Card,2.8615,43.7,Credit card lump-sum usage 3M
+2,C1M2B5W03,Card,1.5554,23.8,Credit card installment usage 3M
+3,AL012G019,Alternative,0.6492,9.9,3yr mobile phone history count
+4,C1Z001373,Card,0.424,6.5,Total card usage 3M
+5,AL012G005,Alternative,0.3605,5.5,3yr address history count
+6,U81201010,Asset,0.2833,4.3,Total asset value index
+7,U81202010,Asset,0.2627,4.0,Net asset value index
+8,AS120G001,Alternative,0.1203,1.8,Current residence size (binned)
+9,AL012G011,Alternative,0.0256,0.4,3yr workplace history count

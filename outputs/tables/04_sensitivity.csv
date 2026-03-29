@@ -1,0 +1,6 @@
+﻿scenario,w1,w2,w3,cmvts
+Baseline,0.4,0.3,0.3,0.9338
+JSD-heavy,0.6,0.2,0.2,0.9412
+Spearman-heavy,0.2,0.6,0.2,0.9146
+CosSim-heavy,0.2,0.2,0.6,0.9382
+Equal,0.333,0.333,0.333,0.9304

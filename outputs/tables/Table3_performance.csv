@@ -1,0 +1,5 @@
+﻿Metric,Original Report (real data),This Study (synthetic data),Target,Note
+AUC,0.8462,0.9791,≥ 0.80,Synthetic data amplification
+KS Statistic,0.5524,0.8838,≥ 0.50,Synthetic data amplification
+PSI,< 0.25,0.0969,< 0.25,Stable
+Bad Rate,~3–5%,0.51%,—,Synthetic data characteristic

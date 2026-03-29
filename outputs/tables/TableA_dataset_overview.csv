@@ -1,0 +1,4 @@
+﻿Dataset,Source,Period,N,Features,Bad rate,Split
+Individual CB (File 09),AI Hub (dataSetSn=71792),2021Q4–2022Q4,"3,129,036",64,0.51%,Train 70% / Test 30%
+Telecom-Card-CB (File 11),AI Hub (dataSetSn=71792),2021Q1–2022Q4,"2,640,000",4,N/A (no Y),JSD refinement only
+Statista Macro Indicators,Statista Consumer Insights,2020–2022,34 indicators,"2 (KR, ID)",N/A,CosSim component

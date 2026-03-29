@@ -1,0 +1,16 @@
+﻿Variable,Group,Description,N,Mean,Std,Min,P25,Median,P75,Max,Missing%,IV,Transfer
+C1M2B4W03,Card,Credit card lump-sum usage amount (3M),3128958,5180.171,7653.1418,-42482.0,0.0,2848.0,8556.0,169360.0,0.0,2.8615,HIGH
+C1M2B5W03,Card,Credit card installment usage amount (3M),3129016,1092.4196,1882.4333,-4629.0,0.0,0.0,2094.0,23728.0,0.0,1.5554,HIGH
+AL012G019,Alternative,3-year mobile phone number history count,3128996,1.723,0.6338,1.0,1.0,2.0,2.0,5.0,0.0,0.6492,HIGH
+C1Z001373,Card,"Total card usage amount (3M, active)",3128941,7050.6849,11099.5651,-71235.0,0.0,4995.0,11903.0,204992.0,0.0,0.424,HIGH
+AL012G005,Alternative,3-year address history count,3128999,1.9625,0.9508,1.0,1.0,2.0,2.0,7.0,0.0,0.3605,HIGH
+U81201010,Asset,Asset evaluation index (total asset value),3129036,341241.5739,1417202.4271,0.0,86746.0,163306.0,323361.0,73735537.0,0.0,0.2833,HIGH
+U81202010,Asset,Asset evaluation index (net asset value),3129036,329852.386,1438581.0453,0.0,86740.0,156593.0,323357.0,78548875.0,0.0,0.2627,HIGH
+AS120G001,Alternative,Current residence size (binned),1352711,2.7489,0.9135,1.0,2.0,3.0,3.0,5.0,56.77,0.1203,HIGH
+AL012G011,Alternative,3-year workplace history count,3128994,1.3742,0.6429,1.0,1.0,1.0,2.0,5.0,0.0,0.0256,HIGH
+D1013A000,Alternative,,3129036,54.6958,331.8132,0.0,0.0,0.0,0.0,3699.0,0.0,8.4812,—
+D10110000,Alternative,,3129036,0.4066,2.4077,0.0,0.0,0.0,0.0,140.0,0.0,7.8239,—
+D10133000,Alternative,,3129036,1691.883,10204.5723,-37233.0,0.0,0.0,0.0,386411.0,0.0,5.4575,—
+D10142D0T,Alternative,,3129036,435.9125,4126.7511,0.0,0.0,0.0,0.0,177298.0,0.0,4.7807,—
+C1L120170,Card,CA limit issuer count (active),3129036,1.4748,1.5108,0.0,0.0,1.0,2.0,18.0,0.0,3.0791,MEDIUM
+C1L120082,Card,Credit cards with valid CA limit (active),3129036,1.4807,1.5186,0.0,0.0,1.0,2.0,17.0,0.0,3.0554,MEDIUM

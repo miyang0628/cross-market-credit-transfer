@@ -1,0 +1,4 @@
+﻿Analysis,Scenarios,CMVTS range,Variation,≥0.80 (%),Verdict
+Weight configuration (Grid),36,0.9021–0.9485,0.0464,100.0,Stable
+JSD proxy distribution,4,0.8421–0.9338,0.0917,100.0,Moderate
+CosSim indicator subset,6,0.9314–0.9372,0.0058,100.0,Stable

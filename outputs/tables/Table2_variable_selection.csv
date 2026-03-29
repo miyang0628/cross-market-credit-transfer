@@ -1,0 +1,6 @@
+﻿Group,Selected (IV≥0.01),IV min,IV max,IV mean,Used in model,Transfer (HIGH)
+Card (C),29,0.0548,3.0791,1.1328,29,3
+Loan (L),22,0.0104,1.132,0.5987,22,0
+Asset index (U),9,0.0205,0.2882,0.1869,9,2
+Delinquency (D),6,1.2635,8.4812,5.0474,0,0
+Alternative (A),4,0.0256,0.6492,0.2889,4,4

@@ -1,0 +1,5 @@
+﻿variable,column,jsd,sim_jsd,id_value,id_source,desc
+comm_sns_22_1,R3M_ITRT_COMM_SNS,0.561998,0.438002,70.0,Social media penetration Indonesia 2021,SNS community interest score
+shc_236_222Q,CD_USE_AMT,0.14476,0.85524,57.0,eCommerce penetration Indonesia 2021,e-Commerce usage amount
+shop_social_22_2,R3M_ITRT_SHOP_SOCIAL,0.600843,0.399157,57.0,eCommerce penetration Indonesia 2021,Social commerce interest score
+shop_jikgu_22_2,R3M_ITRT_SHOP_JIKGU,0.789344,0.210656,19.0,Cross-border shopping Indonesia 2021,Overseas direct purchase interest
