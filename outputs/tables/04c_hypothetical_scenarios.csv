@@ -1,0 +1,4 @@
+﻿market_pair,data_type,internet_pct,smartphone_pct,ecommerce_pct,component1_1mJSD,component2_spearman,component3_cossim,cmvts,tier,decision,note
+Korea → Indonesia (Actual),Actual,72.9,72.1,57.0,0.955892565396056,0.8896062271062269,0.9485153655333091,0.9338,HIGH,Direct transfer recommended,Actual computation (AI-Hub + Statista)
+Korea → Market B (Hypothetical: Emerging),Hypothetical,45.0,40.0,25.0,0.74,0.68,0.71,0.713,MEDIUM,Transfer with partial adjustment,"Hypothetical (internet ~45%, eComm ~25%)"
+Korea → Market C (Hypothetical: Pre-Digital),Hypothetical,20.0,18.0,8.0,0.52,0.41,0.48,0.475,LOW,Local data collection recommended,"Hypothetical (internet ~20%, eComm ~8%)"

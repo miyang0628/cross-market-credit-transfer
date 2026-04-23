@@ -1,0 +1,7 @@
+﻿Metric,Korea (Baseline),Indonesia Simulation (Shift)
+Approval Rate (%),92.1,92.4
+Approved-population Bad Rate (%),0.0243,0.0254
+Declined-population Bad Rate (%),6.2631,6.4252
+Lift (declined BR / approved BR),258.0,253.2
+Grade A Bad Rate (%),0.0042,0.0030
+Grade E Bad Rate (%),10.9,11.0

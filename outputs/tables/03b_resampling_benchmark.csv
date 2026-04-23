@@ -1,0 +1,4 @@
+﻿method,n_train,bad_rate,auc_train,auc_test,ks_test,psi,auc_pass,ks_pass,psi_pass
+"Undersampling (Current, 1:10)",123948,9.1%,0.9808,0.9791,0.8838,0.1011,PASS,PASS,PASS
+SMOTE (Over-sampling),135216,16.7%,0.9823,0.9801,0.8861,0.2722,PASS,PASS,FAIL
+ADASYN (OK),136461,17.4%,0.9729,0.9805,0.8853,0.2344,PASS,PASS,PASS
